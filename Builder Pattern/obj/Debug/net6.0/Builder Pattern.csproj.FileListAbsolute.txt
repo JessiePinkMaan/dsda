@@ -1,0 +1,15 @@
+C:\Users\Kefir_\source\repos\Builder Pattern\bin\Debug\net6.0\Builder Pattern.exe
+C:\Users\Kefir_\source\repos\Builder Pattern\bin\Debug\net6.0\Builder Pattern.deps.json
+C:\Users\Kefir_\source\repos\Builder Pattern\bin\Debug\net6.0\Builder Pattern.runtimeconfig.json
+C:\Users\Kefir_\source\repos\Builder Pattern\bin\Debug\net6.0\Builder Pattern.dll
+C:\Users\Kefir_\source\repos\Builder Pattern\bin\Debug\net6.0\Builder Pattern.pdb
+C:\Users\Kefir_\source\repos\Builder Pattern\obj\Debug\net6.0\Builder Pattern.csproj.AssemblyReference.cache
+C:\Users\Kefir_\source\repos\Builder Pattern\obj\Debug\net6.0\Builder Pattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kefir_\source\repos\Builder Pattern\obj\Debug\net6.0\Builder Pattern.AssemblyInfoInputs.cache
+C:\Users\Kefir_\source\repos\Builder Pattern\obj\Debug\net6.0\Builder Pattern.AssemblyInfo.cs
+C:\Users\Kefir_\source\repos\Builder Pattern\obj\Debug\net6.0\Builder Pattern.csproj.CoreCompileInputs.cache
+C:\Users\Kefir_\source\repos\Builder Pattern\obj\Debug\net6.0\Builder Pattern.dll
+C:\Users\Kefir_\source\repos\Builder Pattern\obj\Debug\net6.0\refint\Builder Pattern.dll
+C:\Users\Kefir_\source\repos\Builder Pattern\obj\Debug\net6.0\Builder Pattern.pdb
+C:\Users\Kefir_\source\repos\Builder Pattern\obj\Debug\net6.0\Builder Pattern.genruntimeconfig.cache
+C:\Users\Kefir_\source\repos\Builder Pattern\obj\Debug\net6.0\ref\Builder Pattern.dll
